@@ -1,0 +1,7 @@
+{
+  "name": "ionic-domaci",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
